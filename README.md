@@ -5,7 +5,6 @@
 
 
 Authors: Mariana Quiroga & Jordi Busoms <br />
-
-Bachelor's Degree in Bioinformatics
-Comparative and Functional Genomics 
+Bachelor's Degree in Bioinformatics <br />
+Comparative and Functional Genomics <br />
 
