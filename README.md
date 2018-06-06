@@ -4,8 +4,8 @@
 
 
 
-Authors: Mariana Quiroga & Jordi Busoms
-/n
+Authors: Mariana Quiroga & Jordi Busoms <br />
+
 Bachelor's Degree in Bioinformatics
 Comparative and Functional Genomics 
 
