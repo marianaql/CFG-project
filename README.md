@@ -13,6 +13,6 @@ The project focus on the functional characterization of unknown proteins using d
 - We used `Biopython` to parse fasta format. <br />
 1. **Optional arguments**: *Desired_number_of_hits_retrieved, blast_results_file, database_file*. To specify a file all arguments must be given. Notice that: <br />
     - If no new arguments are given, default values are taken as `20`, `results.out`, `blast_database_FCG2018.fasta`.
-    - If only one argument is given, it is taken as *Desired_number_of_hits_retrieved*, *blast_results_file* and *database_file* are set to `results.out` and `blast_database_FCG2018.fasta` respectively.
+    - If only one argument is given, it is taken as *Desired_number_of_hits_retrieved*, *blast_results_file* and *database_file* are set to `results.out` and `blast_database_FCG2018.fasta`, respectively.
 
 
