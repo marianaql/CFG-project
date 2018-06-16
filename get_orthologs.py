@@ -48,7 +48,7 @@ for ID1 in IDS:
 ###PARSING THE FASTA FILE
 files={}			# will contain all taret ids with its file names.
 for ID in IDS:
-	files[ID]=open((str(ID)+'.ortho'), 'w')
+	files[ID]=open((str(ID)+'.fasta'), 'w')
 print(files)
 for record in records:
     ID= record.id
