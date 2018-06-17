@@ -7,7 +7,7 @@ Comparative and Functional Genomics <br />
 
 
 The project focus on the functional characterization of unknown proteins using different tools based on comparative genomics and differential gene expression. <br />
-**Here you will find three folders:**
+**Here you will find three folders:** <br />
      -`ADDITIONAL_FILES`: where you can find all the extra we specified at the end of the paper (i.e. Figure A1, Figure A2 and                      Figure A3).
      -`TREES`: where you can find all the phylogenetic trees obtained with Phylogeny.fr and Phylo.io, including the species tree. Notice that you can find the species tree in this folder and also in Figure A1 in ADDITIONAL_FILES.
      -`SEQUENCES`: where you can find all the target sequences and also the ones obtained using `get_orthologs.py`.
