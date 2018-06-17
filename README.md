@@ -10,7 +10,7 @@ The project focus on the functional characterization of unknown proteins using d
 **Here you will find three folders:** <br />
      -`ADDITIONAL_FILES`: where you can find all the extra we specified at the end of the paper (i.e. Figure A1, Figure A2 and                      Figure A3). <br />
      -`TREES`: where you can find all the phylogenetic trees obtained with Phylogeny.fr and Phylo.io, including the species tree. Notice that you can find the species tree in this folder and also in Figure A1 in ADDITIONAL_FILES.  <br />
-     -`SEQUENCES`: where you can find all the target sequences and also the ones obtained using `get_orthologs.py`.  <br />
+     -`SEQUENCES`: where you can find all the target sequences `sequences.txt` and also the ones obtained using `get_orthologs.py`.  <br />
        `sequences.txt`contains 10 unknown proteins from the species *Penicillium polonicum*.  <br />
             
 - `get_orthologs.py`contains a `Python` code that reads `blastp` results on 6 format and searches for the sequences of the  best hits for every queried sequences on the database file you want to use. <br /> 
